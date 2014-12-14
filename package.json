@@ -1,0 +1,32 @@
+{
+  "name": "react-network-graph",
+  "version": "0.0.1",
+  "description": "Network graph rendering using facebook react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crubier/react-network-graph.git"
+  },
+  "keywords": [
+    "react-component",
+    "graph",
+    "network",
+    "view",
+    "chart",
+    "layout",
+    "chart",
+    "plot"
+  ],
+  "author": "Vincent Lecrubier <vincent.lecrubier@gmail.com> (http://www.vincentlecrubier.fr/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crubier/react-network-graph/issues"
+  },
+  "homepage": "https://github.com/crubier/react-network-graph",
+  "dependencies": {
+    "svg-path-generator": "^1.0.0"
+  }
+}
